@@ -14,6 +14,6 @@
 ![output_21_0](https://github.com/user-attachments/assets/23a33605-d149-46d1-bfa2-0f6d55f22cb9)
 
 5. Correlation are done between age and salary
-   ![output_25_0](https://github.com/user-attachments/assets/21858d7a-69f0-491a-875d-972e9c4da47d)
+![output_25_0](https://github.com/user-attachments/assets/21858d7a-69f0-491a-875d-972e9c4da47d)
 
 
