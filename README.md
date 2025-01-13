@@ -6,4 +6,4 @@
 3.Identification of predominat age group among employees are done.
 4.Discoverd which team and position have the highest salary expenditure.
 5.Correlation are done between age and salary
-### above task are ploted using pyplot and seaborn
+##### Above task are ploted using pyplot and Seaborn
